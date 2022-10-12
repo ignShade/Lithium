@@ -1,0 +1,204 @@
+auto-broadcast:
+  messages:
+    - "Hello, world!"
+    - "Message #2"
+    - "Message #3"
+    - "Message #4"
+
+renamer:
+  cost: 50
+  like:
+    - "%name% &7- &aI love it!"
+    - "%name% &7- &aPerfect!"
+    - "%name% &7- &aI like it!"
+    - "%name% &7- &aThis is the one!"
+  dislike:
+    - "%name% &7- &chmm... I don't really like that one..."
+    - "%name% &7- &cI don't like that one..."
+    - "%name% &7- &cMeh..."
+    - "%name% &7- &cCould be better."
+    - "%name% &7- &cI don't like it."
+    - "%name% &7- &cI don't like it at all."
+    - "%name% &7- &cMaybe not..."
+  names:
+    - "&fAutoClick"
+    - "&bL"
+    - "&9Drip"
+    - "&3Vape"
+    - "&eAnime"
+    - "&bHuzuni"
+    - "&6Gang"
+    - "&eExcalibur"
+    - "&cSavage"
+    - "&fBruh"
+    - "&dUwU"
+    - "&cDNS"
+    - "&aEasy Money"
+    - "&a$$$"
+    - "&4Rage"
+    - "&cKiller"
+    - "&bDAB"
+    - "&0Demon"
+    - "&aH&2a&ac&2k&ae&2r"
+    - "&c&lREKT"
+    - "&fGOD"
+    - "&6&lQueen"
+    - "&bRandy"
+    - "&bLOL"
+    - "&fpce"
+    - "&9Crazy"
+    - "&aTank"
+    - "&eOG"
+    - "&bMourning"
+    - "&cMVP"
+    - "&3BOO!"
+    - "&0Ghoul"
+    - "&4OP"
+    - "&c&l<3"
+    - "&dLove"
+    - "&cGF"
+    - "&bWARRIOR"
+    - "&e⚠"
+    - "&b<o/"
+    - "&bClown"
+    - "&fSimp"
+    - "&eSauce"
+    - "&ayurrrrrrrr"
+    - "&f.-."
+    - "&f._."
+    - "&6Deam Boy"
+    - "&f( ͡° ͜ʖ ͡°)"
+    - "&c<3"
+    - "&6#1"
+    - "&fBad"
+    - "&bHappy"
+    - "&aPoggers"
+    - "&ePeces"
+    - "&fDude"
+    - "&aStonks"
+    - "&eEasy"
+    - "&fEz"
+    - "&bBot"
+    - "&f1Fps"
+    - "&cAvenge"
+    - "&bBest"
+    - "&bMen"
+    - "&fTo the Lobby"
+    - "&fBack Later"
+    - "&bGulag"
+    - "&fEz Kite"
+    - "&eBye Bye"
+    - "&bWTF"
+    - "&eHero"
+    - "&aOni"
+    - "&2Reptilian"
+    - "&7UFO"
+    - "&fGhost"
+    - "&fXMouse"
+    - "&27&aClicker"
+    - "&bVelocity"
+    - "&fMacros"
+    - "&fDouble Click"
+    - "&4Soviet Tank"
+    - "&cSlayer"
+    - "&cKill Aura"
+    - "&fGood Job Boy"
+    - "&bSlowest"
+    - "&6Goku"
+    - "&6Trunks"
+    - "&6Vegeta"
+    - "&4DragonBall Z"
+    - "&aBroly"
+    - "&5Dragonborn"
+    - "§eSkills"
+
+drop-party:
+    locA: 'none'
+    locB: 'none'
+
+filtered-words:
+  normal:
+    - fuck
+    - shit
+    - bitch
+    - nigga
+    - whore
+    - cunt
+    - retard
+    - tranny
+    - autist
+    - autism
+    - jew
+    - muslim
+    - arse
+    - ass
+    - b1tch
+    - /find
+    - /join
+    - dick
+    - cock
+    - penis
+    - porn
+    - rule34
+    - xhamster
+    - xvideos
+  mutable:
+    - nigger
+    - fag
+    - kys
+
+chat-games:
+  scramble:
+    words:
+      - "leonemc"
+      - "gset"
+      - "crates"
+      - "events"
+      - "duels"
+      - "koth"
+      - "lms"
+      - "leone"
+      - "leonecali"
+      - "leonepvp"
+      - "leonegaming"
+      - "tournaments"
+      - "discord"
+      - "kits"
+      - "parties"
+      - "dropparty"
+      - "chests"
+      - "afk"
+      - "teams"
+  first-to-say:
+    words:
+      - "leonemc"
+      - "gset"
+      - "crates"
+      - "events"
+      - "duels"
+      - "koth"
+      - "lms"
+      - "leone"
+      - "leonecali"
+      - "leonepvp"
+      - "leonegaming"
+      - "tournaments"
+      - "discord"
+      - "kits"
+      - "parties"
+      - "dropparty"
+      - "chests"
+      - "afk"
+      - "teams"
+
+banned-commands:
+  cmds:
+    - me
+    - minecraft:me
+    - bukkit:me
+
+leaderboard:
+  x: 0
+  y: 0
+  z: 0
+  world: world

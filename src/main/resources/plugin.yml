@@ -1,0 +1,14 @@
+name: Lithium
+version: 1.0.0
+main: net.leonemc.lithium.Lithium
+authors:
+  - Decameter
+  - 98ping
+depend:
+  - Vault
+  - Essentials
+
+softdepend:
+  - Duels
+  - KoTH
+  - LiteBans
